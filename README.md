@@ -4,4 +4,10 @@ It includes major mods such as Create,Fungal Infection: Spore,Re:Avaritia,Projec
 
 Regarding this modpack,there are no main or side quests.Players are free to play as they wish (just survive).If you want to challenge yourself,try to craft the weapons of Re:Avaritia(you can combine it with ProjectE to make the process easier).
 
+The game doesn't have a clear goal, but if you want to challenge yourself, try to craft items from Avaritia and complete the achievements that come with the game mods.
+
+To maintain balance, this modpack has banned some overpowered items and modified the EMC values of some items. However, there may still be some oversights, and you can add to them yourself.
+
+If you feel that the modpack is missing a certain mod or find it "too difficult," you can manually add mods.
+
 Flowers_Baby is my Minecraft game ID.
