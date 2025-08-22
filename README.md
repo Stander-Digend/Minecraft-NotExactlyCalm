@@ -8,4 +8,6 @@ To maintain balance, this modpack has banned some overpowered items and modified
 
 If you feel that the modpack is missing a certain mod or find it "too difficult," you can manually add mods.
 
+You may manually add more mods to optimize this modpack and make it more perfect. You are also free to redistribute it, but please keep the same license and credit my name.
+
 Flowers_Baby is my Minecraft game ID.
